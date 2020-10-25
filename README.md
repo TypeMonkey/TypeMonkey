@@ -1,6 +1,6 @@
 ### hello world 👋
 
-I'm **Jose Guaro**, currently studying Mathematics and Computer Science at UC San Diego
+I'm **Jose Guaro**, currently studying **_Mathematics and Computer Science_** at **UC San Diego**
 
 #### Interests :satellite: :  
 * **_Programming Languages:_** Most of my work and interests in PL lie in runtime systems and management, mainly experimenting with new venues for computational resources. 
