@@ -19,4 +19,4 @@ I'm **Jose Guaro**, currently studying **_Mathematics and Computer Science_** at
     - A feature complete, s-expression language I made for SD Hacks in under ~12 hours
 
 #### Contact  📫 :
-- Feel free to reach out to me to my [**email**](anothertypemonkey@gmail.com) ! Always looking to interact with potential collaborators, employers, and/or friends
+- Feel free to reach out to me to my [**email**](mailto:anothertypemonkey@gmail.com) ! Always looking to interact with potential collaborators, employers, and/or friends
