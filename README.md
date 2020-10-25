@@ -5,7 +5,7 @@ I'm **Jose Guaro**, currently studying Mathematics and Computer Science at UC Sa
 #### Interests 🔭 :  
 * **_Programming Languages:_** Most of my work and interests in PL lie in runtime systems and management, mainly experimenting with new venues for computational resources. 
 
-* **_Computer Science Education:_** Advocacy and policy is my main foci when it comes to CS education. I currently work with equity organizations at UC San Diego - such as [**CREATE**](https://create.ucsd.edu/) - to make content and guides for equitable CS education.
+* **_Computer Science Education:_** Advocacy and policy is my main foci when it comes to CS education. I currently work with equity organizations at UC San Diego - such as [**CREATE**](https://create.ucsd.edu/) - in making content and guides for equitable CS education.
 
 #### Projects :eyeglasses: 
     
