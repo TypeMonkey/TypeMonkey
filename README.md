@@ -22,4 +22,4 @@ I'm **Jose Guaro**, and I studied **_Mathematics and Computer Science_** at **UC
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TypeMonkey)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Contact  📫 :
-- Feel free to reach out to me to my [**email**](mailto:anothertypemonkey@gmail.com) ! Always looking to interact with potential collaborators, employers, and/or friends
+- Feel free to reach out to me to my [**email**](mailto:anothertypemonkey@gmail.com) ! Always looking to interact with potential collaborators, employers, and friends
