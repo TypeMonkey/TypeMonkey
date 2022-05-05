@@ -8,7 +8,9 @@ I'm **Jose Guaro**, and I studied **_Mathematics and Computer Science_** at **UC
 * **_Computer Science Education:_** Advocacy and policy is my main foci when it comes to CS education. I worked with education equity organizations at UC San Diego - such as [**CREATE**](https://create.ucsd.edu/) - in making content and guides for equitable CS education. 
 
 #### Projects :eyeglasses: 
-    
+- [**_Aquifer_**](https://github.com/TypeMonkey/Aquifer) :ocean: (May 2022 - ongoing)
+    - A library that automatically generates GUIs for terminal-based, Java applications. Written in pure Java and uses JavaFX.
+
 - [**_DChess_**](https://github.com/TypeMonkey/DChess) :chess_pawn: (May 2020 - ongoing)
     - A democratized version of the classic game of chess where each side is composed of a team of players who vote on moves each turn.
     
