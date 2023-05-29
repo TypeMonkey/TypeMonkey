@@ -20,8 +20,5 @@ I'm **Jose Guaro**, and I studied **_Mathematics and Computer Science_** at **UC
 - [**_sNEK_**](https://github.com/TypeMonkey/sNEK) :snake: (October 2020) 
     - A feature complete, s-expression language I made for SD Hacks in under ~12 hours
 
-#### Stats :bar_chart: :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TypeMonkey)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Contact  📫 :
 - Feel free to reach out to me to my [**email**](mailto:anothertypemonkey@gmail.com) ! Always looking to interact with potential collaborators, employers, and friends
