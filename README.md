@@ -1,6 +1,6 @@
 ### hello world 👋
 
-I'm **Jose Guaro**, and I studied **_Mathematics and Computer Science_** at **UC San Diego** _(Class of 2021)_
+I'm **Jose Guaro**, and I studied **_Mathematics and Computer Science_** at **UC San Diego** _(Class of 2021)_ . I'm currently a **Software Engineer** at **_Southwest Airlines_** .
 
 #### Interests :satellite: :  
 * **_Programming Languages:_** Most of my work and interests in PL lie in runtime systems and management, mainly experimenting with new venues for computational resources. 
